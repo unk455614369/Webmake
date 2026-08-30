@@ -1,2 +1,0 @@
-# Webmake
-Ai website generator
